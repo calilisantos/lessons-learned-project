@@ -5,9 +5,25 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
+  background-color: chartreuse;
 }
 
-#titulo { 
+#titulo {
   font-size: large;
 }
 
+#minha_foto {
+  border-radius: 100%;
+}
+
+#licoes_aprendidas {
+  color: cadetblue;
+}
+
+#licoes_a_aprender {
+  color: brown;
+}
+
+#rodape {
+  background-color: chartreuse;
+}
