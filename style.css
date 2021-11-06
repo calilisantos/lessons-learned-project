@@ -1,29 +1,55 @@
-body {
+body { 
   background-color: rgb(253, 251, 251);
+  font-family: Verdana;
 }
 
 #cabecalho {
   position: fixed;
   top: 0;
-  background-color: chartreuse;
+  margin: 10px;
+  padding: 50px;
+  border: 50px;
 }
 
 #titulo {
   font-size: large;
+  margin: 10px;
+  padding: 50px;
+  border: 50px;
 }
 
 #minha_foto {
   border-radius: 100%;
+  margin: 10px;
+  padding: 100px;
+  border: 50px;
+}
+
+.lado-esquerdo {
+  line-height: 20px;
+}
+
+.lado-direito {
+  line-height: 20px;
 }
 
 #licoes_aprendidas {
   color: cadetblue;
+  margin: 30px;
+  padding: 50px;
+  border: 50px;
 }
 
 #licoes_a_aprender {
   color: brown;
+  margin: 30px;
+  padding: 50px;
+  border: 50px;
 }
 
 #rodape {
   background-color: chartreuse;
+  margin: 10px;
+  padding: 50px;
+  border: 50px;
 }

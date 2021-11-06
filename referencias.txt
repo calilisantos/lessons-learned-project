@@ -1,0 +1,5 @@
+/* Marcador itálico: http://embuscadocodigo.com/codigos/html/video08.html*/
+
+    /* Erro no teste 11 corrigido com a dica de Lucas Abreu no slack https://trybecourse.slack.com/archives/C02HY11SPJP/p1636057061028100?thread_ts=1636056106.016000&cid=C02HY11SPJP*/
+
+    /* Correção da tag img https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img */
