@@ -1,5 +1,9 @@
-/* Marcador itálico: http://embuscadocodigo.com/codigos/html/video08.html*/
+Erro no teste 11 corrigido com a dica de Lucas Abreu no slack https://trybecourse.slack.com/archives/C02HY11SPJP/p1636057061028100?thread_ts=1636056106.016000&cid=C02HY11SPJP*/
 
-    /* Erro no teste 11 corrigido com a dica de Lucas Abreu no slack https://trybecourse.slack.com/archives/C02HY11SPJP/p1636057061028100?thread_ts=1636056106.016000&cid=C02HY11SPJP*/
+Correção da tag img https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img */
 
-    /* Correção da tag img https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img */
+Txt de referências sugerido pelo Henrique Baêta no Slack: https://trybecourse.slack.com/archives/C02HY11SPJP/p1636119194108000?thread_ts=1636083617.088200&cid=C02HY11SPJP
+
+Requisito 15 atingido com insight de Esdras Tenório em mentoria técnica, dia 10/11
+    
+Comandos CSS melhorados a partir do W3 Shool: https://www.w3schools.com/css/css_text_spacing.asp

@@ -1,55 +1,66 @@
 body { 
   background-color: rgb(253, 251, 251);
-  font-family: Verdana;
+  font-family: 'Courier New', sans-serif;
 }
 
 #cabecalho {
+  background-color: indigo;
   position: fixed;
   top: 0;
-  margin: 10px;
-  padding: 50px;
-  border: 50px;
+  padding: 20px;
 }
 
 #titulo {
-  font-size: large;
+  font-size: 50px;
+  color: aliceblue;
+  background-color: greenyellow;
   margin: 10px;
-  padding: 50px;
-  border: 50px;
+  border: 10px;
 }
 
 #minha_foto {
-  border-radius: 100%;
-  margin: 10px;
-  padding: 100px;
-  border: 50px;
+  background-color: rgb(11, 11, 54);
+  width: 300px;
+  padding: 10px;
+  float: initial;
+}
+
+.artigos {
+  line-height: 1.5;
 }
 
 .lado-esquerdo {
-  line-height: 20px;
+  display: inline-block;
+  width: 50%;
+  top:left;
+  background-color: orange;
+  margin-top: 30px;
+
 }
 
 .lado-direito {
-  line-height: 20px;
+  float: right;
+  width: 50%;
+  top:right;
+  background-color: yellow;
+  margin-top: 30px;
+
 }
 
 #licoes_aprendidas {
+  background-color: black;
   color: cadetblue;
-  margin: 30px;
-  padding: 50px;
-  border: 50px;
+  
 }
 
 #licoes_a_aprender {
+  background-color: gray;
   color: brown;
-  margin: 30px;
-  padding: 50px;
-  border: 50px;
+
 }
 
 #rodape {
   background-color: chartreuse;
-  margin: 10px;
-  padding: 50px;
-  border: 50px;
+  margin-top: 30px;
+  padding: 30px;
 }
