@@ -1,6 +1,5 @@
-/* background-color: rgb(225, 229, 247); */
 body {
-  background-color: rgb(253, 251, 251);
+  background-color: rgb(225, 229, 247);
   font-family: Courier, monospace;
 }
 
@@ -8,8 +7,6 @@ body {
   background-color: rgb(45, 44, 46);
   padding: 2vh;
   margin-bottom: 2vh;
-  position: fixed;
-  top: 0;
 }
 
 #titulo {
@@ -28,7 +25,6 @@ body {
 #minha_foto {
   height: 40vh;
   border: solid;
-  float: left;
 }
 
 .artigos {
@@ -41,7 +37,7 @@ body {
   font-size: 4vh;
 }
 
-.lado-esquerdo {
+#lado-esquerdo {
   color: aliceblue;
   float: left;
   width: 50%;
@@ -49,11 +45,11 @@ body {
   margin-top: 5vh;
 }
 
-.lado-esquerdo h3 {
+#lado-esquerdo h3 {
   font-size: 3vh;
 }
 
-.lado-direito {
+#lado-direito {
   color: aliceblue;
   float: right;
   width: 50%;
@@ -61,30 +57,17 @@ body {
   margin-top: 5vh;
 }
 
-.lado-direito h3 {
+#lado-direito h3 {
   font-size: 3vh;
 }
 
-#licoes_aprendidas {
+.licoes {
   color: cadetblue;
   font-weight: 700;
   font-size: 2vh;
 }
-
-#licoes_a_aprender {
-  color: cadetblue;
-  font-weight: 700;
-  font-size: 2vh;
-}
-
-/* .licoes {
-  color: cadetblue;
-  font-weight: 700;
-  font-size: 2vh;
-} */
 
 #rodape {
   font-size: 1.8vh;
   margin-top: 75vh;
-  padding: 10px;
 }
