@@ -7,3 +7,5 @@ Txt de referências sugerido pelo Henrique Baêta no Slack: https://trybecourse.
 Requisito 15 atingido com insight de Esdras Tenório em mentoria técnica, dia 10/11
     
 Comandos CSS melhorados a partir do W3 Shool: https://www.w3schools.com/css/css_text_spacing.asp
+
+CSS Responsivo usando vmin: https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/
