@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
-Esse foi meu primeiro projeto na Trybe. O objetivo foi desenvolver um site contendo algumas informações sobre o aprendizado na Trybe ao longo dos primeiros três blocos do curso (De 18/10/22 a 09/11/21). O site deveria estar com elementos posicionados e estilizados além de conter semântica apropriada para que seja acessível e melhor ranqueado.
+Esse foi meu primeiro projeto na Trybe. O objetivo foi desenvolver um site contendo algumas informações sobre o aprendizado na Trybe ao longo dos primeiros três blocos do curso (De 18/10/21 a 09/11/21). O site deveria estar com elementos posicionados e estilizados além de conter semântica apropriada para que seja acessível e melhor ranqueado.
 
 ---
 
