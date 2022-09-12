@@ -6,6 +6,7 @@ Esse foi meu primeiro projeto na Trybe. O objetivo foi desenvolver um site conte
 
 ## SUMÁRIO
 
+- [Deploy](#deploy)
 - [Habilidades](#habilidades)
   - [Lista de requisitos](#lista-de-requisitos)
     - [1. Adicione uma cor de fundo para a página](#1-adicione-uma-cor-de-fundo-para-a-página)
@@ -24,6 +25,10 @@ Esse foi meu primeiro projeto na Trybe. O objetivo foi desenvolver um site conte
     - [13. Utilize o Box model](#13-utilize-o-box-model)
     - [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
     - [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
+
+## Deploy
+
+https://lessons-learned-project-calilisantos.vercel.app/
 
 ## Habilidades
 
